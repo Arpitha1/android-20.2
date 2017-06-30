@@ -1,0 +1,29 @@
+1. What is null pointer Exception?
+
+-->   When you are trying to access any variable or component which is not called there.
+
+
+2. When “Unable to add window to Activity…. Is your Activity running” error occurs?
+
+-->   The dialog is going to be opened but before that user has closed the activity.
+
+
+3. What is ArrayIndexOutOfBound Exception?
+
+-->  When length or size of array is less than the expected size.
+
+
+4. “Activity not found? Have you declare this activity in your manifest file”?
+
+-->  When an activity is created but it is not declared in manifest file. User tries to open this class then this error occurs.
+
+
+5. No such method getColor() found?
+
+-->  When either the method is not correct or the method gets deprecated.
+
+
+6. “Window leaked……” when you get this error? 
+Find the situations where you can see such errors while developing any app.
+
+-->  When dialog is opened and user clicked on button to move on next activity the activity is opened but the dialog was not dismissed. Then this error occurs.
